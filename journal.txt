@@ -2,7 +2,7 @@ Authors:
 Siraj Mohamed
 
 Title:
-This is my science paper
+observations of particles
 
 Introduction:
 So and so has done a lot of work.(J bloggs)

@@ -2,7 +2,7 @@ Authors:
 Siraj Mohamed
 
 Title:
-observations of particles
+particles
 
 Introduction:
 So and so has done a lot of work.(J bloggs)
